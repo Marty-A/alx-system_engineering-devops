@@ -1,2 +1,4 @@
 #!/bin/bash
-file *School data
+0 string =SCHOOL
+School data
+file School*
